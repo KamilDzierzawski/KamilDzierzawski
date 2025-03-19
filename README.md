@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+- 🌱 I’m currently learning Spring Framework
+  
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,css,docker,html,idea,java,jenkins,linux,maven,postgres,react,spring,ts)](https://skillicons.dev)
 <!--
 **KamilDzierzawski/KamilDzierzawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
